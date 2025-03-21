@@ -68,4 +68,4 @@ df.to_csv("tree_images_metadata.csv", index=False)
 
 # Close browser
 driver.quit()
-print("✅ Image scraping complete! Metadata saved as 'tree_images_metadata.csv'")
+print(" Image scraping complete! Metadata saved as 'tree_images_metadata.csv'")
